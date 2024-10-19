@@ -231,6 +231,5 @@ bowed_df = preprocessing(merged_df)
 print("Algorithm ready...")
 print("Predicting ...")
 results = Predict (test_list, bowed_df)
-print (results) 
 
 
